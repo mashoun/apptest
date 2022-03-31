@@ -1,13 +1,9 @@
 # apptest
 
 ## Project setup
+Just clone this repo and type 
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+npm run serve 
 ```
 
 ### Compiles and minifies for production
